@@ -1,0 +1,1 @@
+# seller-status-vinted
